@@ -105,7 +105,7 @@ Once your template is ready, **do not forget to propose it to the community via 
 ### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/SUBUR78990/seeker.git
 cd seeker/
 chmod +x install.sh
 ./install.sh
@@ -125,7 +125,7 @@ docker pull thewhiteh4t/seeker
 
 ### OSX
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/SUBUR78990/seeker.git
 cd seeker/
 python3 seeker.py
 ````
